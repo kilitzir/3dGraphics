@@ -6,7 +6,7 @@ void MyLine(int x1,int y1,int x2,int y2);
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 /* The member functions for classes line, polyline.The function poluline::

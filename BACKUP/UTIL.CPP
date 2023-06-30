@@ -6,7 +6,7 @@ static const float pii = M_PI / 180;
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 // Miscelanus routines. Most of these functions can be inlined.

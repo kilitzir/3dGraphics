@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 // The variable definition. Note the #ifdef main ... Please use it

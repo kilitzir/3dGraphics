@@ -4,7 +4,7 @@
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 /* Member classes of class segment. Please try to understand the

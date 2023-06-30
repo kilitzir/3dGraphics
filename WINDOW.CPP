@@ -3,7 +3,7 @@
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 /* Member functions of window routines.

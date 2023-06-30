@@ -3,7 +3,7 @@
 //------------------------------------------------------------------------
 //                   SIMPLE GRAPHIC INTERACTIVE PROGRAM
 //                        MADE BY CHRIS KILITZIRAKIS
-//                              Copyright 1995
+//                              Clopyright
 //                            No rights reserved
 //------------------------------------------------------------------------
 /* The clipping routines.There are 3 clipping routines , 1 for 2d
@@ -279,7 +279,7 @@ if (noclipping) {
    mx1.setm(x1,y1,x2,y2);
    return TRUE;
 }
-	 // in pespective x = ñ z , y = ñz , z = zmin,z = 1;
+	 // in pespective x = ï¿½ z , y = ï¿½z , z = zmin,z = 1;
 	 // we can only define zmin ;
 zmin = ( VPR1.getz()+ForwardDistance)/(VPR1.getz()+BackwardDistance);
 zmax = 1.0;
